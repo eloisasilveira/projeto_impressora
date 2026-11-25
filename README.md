@@ -1,7 +1,7 @@
 # Controle de Impressora Elgin
 
 Projeto de Programação Orientada a Objetos em Java para controlar uma impressora Elgin i8/i9 pelo terminal.
-
+*Curso Técnico em TI Unasp*
 ## Integrantes
 
 - Eloisa Silveira — https://github.com/eloisasilveira
